@@ -35,5 +35,6 @@ bool check_prime(int n)
             break ;
         }
     }
+    cout<<"Bye-Bye";
     return flag ;
 }
